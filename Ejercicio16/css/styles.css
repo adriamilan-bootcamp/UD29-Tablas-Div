@@ -1,0 +1,33 @@
+
+.container {
+    display: inline-block;
+    background-color: lightyellow;
+    padding: 8px;
+}
+
+table {
+    box-shadow: 3px 3px black;
+    border: 3px solid grey;
+    text-align: center;
+}
+
+.orange-bg {
+    background-color: rgb(240, 146, 59);
+}
+
+.yelow-bg {
+    background-color: rgb(245, 245, 81);
+}
+
+th {
+    background-color: rgb(73, 119, 73);
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+table {
+    background: url(../src/image1.jpg);
+    color: brown;
+}
