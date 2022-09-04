@@ -1,0 +1,8 @@
+.tcenter {
+    text-align: center;
+    font-weight: 600;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+}
