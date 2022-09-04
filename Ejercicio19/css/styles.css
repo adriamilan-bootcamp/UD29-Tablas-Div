@@ -1,0 +1,11 @@
+.container {
+    width: 40%;
+}
+
+table, tr, td, th {
+    border: 2px solid black;
+}
+
+.spain {
+    font-weight: 600;
+}
